@@ -10,3 +10,22 @@ Open a command prompt and run the following commands:
 
 ## Run
 - dotnet WebApi.dll --urls http://0.0.0.0:80
+
+### Reqeust
+```
+{
+  id: 'Rand ID',
+  first_name: 'Rand Name',
+  last_name: 'Rand Last Name',
+}
+```
+### Response
+```
+{
+  "id":"Rand ID",
+  "first_name":"Rand Name 8e29f97d26fb9c33ac642fadcf435615",
+  "last_name":"Rand Last Name 6303ce184a41418f20f330af67d760f8",
+  "current_time":"2018-11-04 09:28 +00:00",
+  "say":"C# is best!"
+}
+```
