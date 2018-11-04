@@ -1,0 +1,14 @@
+/Users/art/Dev/orelcodes_contest/bin/Release/netcoreapp2.1/WebApi.deps.json
+/Users/art/Dev/orelcodes_contest/bin/Release/netcoreapp2.1/WebApi.runtimeconfig.json
+/Users/art/Dev/orelcodes_contest/bin/Release/netcoreapp2.1/WebApi.runtimeconfig.dev.json
+/Users/art/Dev/orelcodes_contest/bin/Release/netcoreapp2.1/WebApi.dll
+/Users/art/Dev/orelcodes_contest/bin/Release/netcoreapp2.1/WebApi.pdb
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.csprojAssemblyReference.cache
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.csproj.CoreCompileInputs.cache
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.RazorAssemblyInfo.cache
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.RazorAssemblyInfo.cs
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.AssemblyInfoInputs.cache
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.AssemblyInfo.cs
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.RazorTargetAssemblyInfo.cache
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.dll
+/Users/art/Dev/orelcodes_contest/obj/Release/netcoreapp2.1/WebApi.pdb
