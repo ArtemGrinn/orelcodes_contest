@@ -10,7 +10,7 @@ sudo apt-get install aspnetcore-runtime-2.1
 ```
 
 ## Run
-```dotnet WebApi.dll --urls http://0.0.0.0:80```
+```dotnet WebApi.dll```
 
 ### Reqeust
 ```
