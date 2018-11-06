@@ -9,7 +9,7 @@ sudo apt-get update
 sudo apt-get install aspnetcore-runtime-2.1	
 ```	
  ## Run	
-```dotnet WebApi.dll```	
+```dotnet Empty.dll```	
  ### Reqeust	
 ```	
 {	
