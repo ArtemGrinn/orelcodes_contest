@@ -1,0 +1,14 @@
+/Users/art/DotNet/Empty/bin/Debug/netcoreapp2.1/Empty.deps.json
+/Users/art/DotNet/Empty/bin/Debug/netcoreapp2.1/Empty.runtimeconfig.json
+/Users/art/DotNet/Empty/bin/Debug/netcoreapp2.1/Empty.runtimeconfig.dev.json
+/Users/art/DotNet/Empty/bin/Debug/netcoreapp2.1/Empty.dll
+/Users/art/DotNet/Empty/bin/Debug/netcoreapp2.1/Empty.pdb
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.csprojAssemblyReference.cache
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.csproj.CoreCompileInputs.cache
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.RazorAssemblyInfo.cache
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.RazorAssemblyInfo.cs
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.AssemblyInfoInputs.cache
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.AssemblyInfo.cs
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.RazorTargetAssemblyInfo.cache
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.dll
+/Users/art/DotNet/Empty/obj/Debug/netcoreapp2.1/Empty.pdb
